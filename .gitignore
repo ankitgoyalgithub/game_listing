@@ -1,0 +1,8 @@
+*.pyc
+__init__.py
+settings.py
+
+migrations
+static
+__pycache__
+.vscode
